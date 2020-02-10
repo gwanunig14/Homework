@@ -1,0 +1,79 @@
+.mainView {
+  background-color: #f4f4ee;
+}
+
+.newProgramButton {
+  margin: 6px 64px 0px 45px;
+  background-color: #8ec886;
+  border-radius: 5px;
+}
+
+.newProgramButton:hover {
+  background-color: #d2b8de;
+  border-radius: 5px;
+}
+
+.buttonLabel {
+  margin-left: 45px;
+  font-size: 10px;
+}
+
+.allPrograms {
+  margin-top: 40px;
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+}
+
+.allProgramsRow {
+  margin-bottom: 10px !important;
+}
+
+.headerColor {
+  color: #9c9f86;
+}
+
+.firstRow {
+  max-width: 125px !important;
+  padding-right: 0px !important;
+}
+
+.firstRowHeader {
+  font-size: 13px;
+}
+
+.secondRow {
+  max-width: 86px !important;
+  padding: 0px !important;
+}
+
+.otherHeader {
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.divider {
+  margin-top: 0;
+}
+
+.rowLabel {
+  font-size: 13px;
+  font-weight: 500;
+  position: relative;
+  bottom: -4px;
+}
+
+.allProgramsMoreButton {
+  font-size: 9px;
+  margin-top: -14px;
+  margin-bottom: 9px;
+}
+
+.interaction {
+  font-size: 8px;
+  margin-top: 8px;
+  margin-left: 5px;
+}
+
+img {
+  margin: 10px;
+}

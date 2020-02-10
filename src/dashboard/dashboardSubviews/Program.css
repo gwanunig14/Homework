@@ -1,0 +1,136 @@
+.programCard {
+  width: 244px;
+  margin-right: 22px;
+  background-color: white;
+}
+
+.program {
+  max-width: 206px !important;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.programColor {
+  color: #c7c0b9;
+}
+
+.pencilCol {
+  margin-top: 20px;
+  max-width: 38px !important;
+  padding: 0 !important;
+}
+
+.pencilButton {
+  float: left;
+  width: 20px;
+  padding: 0px;
+  border-radius: 5px;
+  background-color: #fcfcfa;
+}
+
+.pencil {
+  margin: 0px;
+}
+
+.salesHeader {
+  margin-bottom: 0px;
+  margin-top: 23px;
+  margin-left: 18px;
+  max-height: 49;
+}
+
+.sales {
+  font-size: 10px;
+}
+
+.barChart {
+  margin-left: 19px;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+
+.monthlySales {
+  background-color: #fbfbf6;
+}
+
+.firstCol {
+  max-width: 87px !important;
+  padding-right: 0px !important;
+}
+
+.secondCol {
+  max-width: 55px !important;
+  padding: 0px;
+}
+
+.thirdCol {
+  max-width: 102px !important;
+  z-index: 0;
+}
+
+.totalSales {
+  margin-top: 13px;
+  font-size: 8px;
+}
+
+.colHead1 {
+  margin-top: 13px;
+  font-size: 10px;
+}
+
+.colHead2 {
+  margin-top: 13px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.monthlyEarnings {
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.lineChart {
+  margin: 0px 0px 0px 9px;
+}
+
+.priceNameHeader {
+  margin-top: 13px;
+  font-size: 10px;
+}
+
+.firstAndSecondCol {
+  max-width: 142px !important;
+  padding: 0px !important;
+  z-index: 1;
+}
+
+.pricingName {
+  font-size: 9px;
+  font-weight: 400;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 4px;
+  color: #9e9f92;
+}
+
+.weirdLine {
+  margin-top: 2px;
+  margin-bottom: -3px;
+  border: 0;
+  width: 215px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.colHead3 {
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.moreButton {
+  margin-bottom: 11px;
+  margin-top: 4px;
+  margin-left: 15px;
+  font-size: 10px;
+}

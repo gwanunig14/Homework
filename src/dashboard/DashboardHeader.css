@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  display: inline-block;
+  vertical-align: bottom;
+  width: 100%;
+  padding-left: 29px;
+  /* border: 1px solid #afbfbf; */
+}
+
+li {
+  float: left;
+  margin-top: 0px;
+}
+
+li a {
+  display: block;
+  color: #eef2f1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.active {
+  font-weight: 600;
+}
